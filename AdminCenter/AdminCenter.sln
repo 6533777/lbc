@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminCenter", "AdminCenter\AdminCenter.csproj", "{FCD9E4F8-2748-4A34-8F21-78BC4855CE9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD9E4F8-2748-4A34-8F21-78BC4855CE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD9E4F8-2748-4A34-8F21-78BC4855CE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD9E4F8-2748-4A34-8F21-78BC4855CE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD9E4F8-2748-4A34-8F21-78BC4855CE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
